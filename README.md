@@ -18,8 +18,10 @@
     <img src="assets/view-portfolio.svg" align="left" width="220px">
     <img src="assets/read-blogs.svg" align="left" width="220px">
     <img src="assets/get-in-touch.png" align="left" width="220px">
-    <br/>
 </div>
+
+<br/>
+<br/>
 
 <div>
     <h2>Our Expertise in Different Technologies</h2>
@@ -30,7 +32,7 @@
 | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> Flutter |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> PHP     | Dot Net|NodeJS  |
 |iOS|Laravel|eCommerce|Angular|
 |Android|SaaS|Wordpress|AI/ML|
-|React Native | PWA | AR/VR|
-|MAC|Python|CI|Blockchain|
-|Windows|WebRTC|Wearable|Asterisk|
-|IoT|Metaverse| 
+|React Native | PWA | AR/VR|MAC|
+|Python|CI|Blockchain|Windows|
+|WebRTC|Wearable|Asterisk|IoT|
+|Metaverse| 
