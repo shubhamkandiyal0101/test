@@ -81,7 +81,7 @@
 </table>
 <br/>
 <div>
-<img height="30" src="assets/lets-discuss-project.png" />
+<img height="60" src="assets/lets-discuss-project.png" />
 </div>
 
 <img src="assets/bottom-footer.png" />
