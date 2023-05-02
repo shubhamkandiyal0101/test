@@ -81,7 +81,7 @@
 </table>
 <br/>
 <div>
-<img height="30" src="assets/lets-discuss-project.png" />
+<a href="https://www.moontechnolabs.com/contact-us"><img height="60" src="assets/lets-discuss-project.png" /></a>
 </div>
 
-<img src="assets/bottom-footer.png" />
+<a href="https://www.moontechnolabs.com/"><img src="assets/bottom-footer.png" /></a>
