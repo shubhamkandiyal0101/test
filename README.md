@@ -29,7 +29,7 @@
 
 |<!-- --> |<!-- --> |<!-- --> |<!-- --> |
 |--------|--------|--------|--------|
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> Flutter |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> PHP     | Dot Net|NodeJS  |
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" /> Flutter |<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="30"/> PHP     | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" width="30" /> Dot Net|NodeJS  |
 |iOS|Laravel|eCommerce|Angular|
 |Android|SaaS|Wordpress|AI/ML|
 |React Native | PWA | AR/VR|MAC|
