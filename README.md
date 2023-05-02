@@ -2,16 +2,21 @@
 <br/>
 <br/>
 <div>
-<img src="assets/profile-views.svg" align="left"> <a href="https://twitter.com/moontechnolabs" target="_blank"><img src="assets/twitter-follow.svg" align="right"></a>
+    <img src="assets/profile-views.svg" align="left"> <a href="https://twitter.com/moontechnolabs" target="_blank"><img src="assets/twitter-follow.svg" align="right"></a>
+    <br/>
+    <br/>
 </div>
 
-<h3>
-    Turn your awesome idea into a world-class mobile app with top software development company in the USA, India & across the globe. Expand your business opportunities with our scalable and seamless IT services to speed up your growth.
-</h3>
+<div>
+    <h3>
+        Turn your awesome idea into a world-class mobile app with top software development company in the USA, India & across the globe. Expand your business opportunities with our scalable and seamless IT services to speed up your growth.
+    </h3>
+    
+</div>
 
 <div>
 <img src="assets/view-portfolio.svg" align="left">
-<img src="assets/read-blogs.svg" align="left">
+<img src="assets/read-blogs.svg" align="center">
 <img src="assets/get-in-touch.png" align="left">
 </div>
 
