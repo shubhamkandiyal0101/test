@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=moontechnolabs&label=Profile%20views&color=0e75b6&style=flat" alt="moontechnolabs" /> </p> <a href="https://twitter.com/moontechnolabs" target="_blank"><img src="assets/twitter-follow.svg" align="left"></a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=moontechnolabs&label=Profile%20views&color=0e75b6&style=flat" alt="moontechnolabs" /> </p> 
     <br/>
     <br/>
 </div>
@@ -77,9 +77,18 @@
     <td></td>
 </tr>
 
-
 </table>
 <br/>
+<div align="center">
+    <h2>Stay Connected With Our Social Network</h2>
+    <a href="https://www.facebook.com/moontechnolabs/"><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /></a>
+    <a href="https://twitter.com/moontechnolabs"><img  height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /></a>
+    <a href="https://www.instagram.com/moontechnolabs/"><img  height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" /></a>
+    <a href="https://in.pinterest.com/moontechnolabs/"><img  height="50" src="https://www.vectorlogo.zone/logos/pinterest/pinterest-tile.svg" /></a>
+    <a href="https://www.linkedin.com/company/moontechnolabs/mycompany/"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
+    <a href="https://www.youtube.com/@moontechnolabs"><img  height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" /></a>
+</div>
+<br/><br/>
 <div>
 <a href="https://www.moontechnolabs.com/contact-us"><img height="60" src="assets/lets-discuss-project.png" /></a>
 </div>
