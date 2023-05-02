@@ -15,12 +15,15 @@
 </div>
 
 <div>
-<img src="assets/view-portfolio.svg" align="left">
-<img src="assets/read-blogs.svg" align="center">
-<img src="assets/get-in-touch.png" align="left">
+    <img src="assets/view-portfolio.svg" align="left" width="220px">
+    <img src="assets/read-blogs.svg" align="left" width="220px">
+    <img src="assets/get-in-touch.png" align="left" width="220px">
+    <br/>
 </div>
 
-<h2>Our Expertise in Different Technologies</h2>
+<div>
+    <h2>Our Expertise in Different Technologies</h2>
+</div>
 
 |<!-- --> |<!-- --> |<!-- --> |<!-- --> |
 |--------|--------|--------|--------|
