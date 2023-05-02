@@ -29,8 +29,8 @@
 
 |<!-- --> |<!-- --> |<!-- --> |<!-- --> |
 |--------|--------|--------|--------|
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" /> Flutter |<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="30"/> PHP     | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" width="30" /> Dot Net|NodeJS  |
-|iOS|Laravel|eCommerce|Angular|
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" /> Flutter |<img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" height="30"/> PHP     | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" width="30" /> Dot Net|<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30"> NodeJS  |
+|<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" width="30" />iOS|Laravel|eCommerce|Angular|
 |Android|SaaS|Wordpress|AI/ML|
 |React Native | PWA | AR/VR|MAC|
 |Python|CI|Blockchain|Windows|
