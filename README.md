@@ -1,8 +1,7 @@
-<code>
-<div style="padding:20px;display: flex; align-items: center;background: #161D25">
+<dl style="padding:20px;display: flex; align-items: center;background: #161D25">
    <img style="margin-right: 30px" src="logo.svg" height="60"> 
    <p style="color:#215AAC;font-size:20px;font-weight:bold;margin-left:auto;">TOP MOBILE APP DEVELOPMENT COMPANY IS USA</p>
-</div>
+</dl>
 
 <div style="display:flex;padding-top:20px;">
     <p style="padding:5px 15px; background:#252525; border-top-left-radius:10px; border-bottom-left-radius:10px;">Profile Views</p>
@@ -20,4 +19,3 @@
     <div>2</div>
     <div>3</div>
 </div>
-</code>
