@@ -15,9 +15,9 @@
 </div>
 
 <div>
-    <img src="assets/view-portfolio.svg" align="left" width="220px">
-    <img src="assets/read-blogs.svg" align="left" width="220px">
-    <img src="assets/get-in-touch.png" align="left" width="220px">
+    <a href="https://www.moontechnolabs.com/portfolios"><img src="assets/view-portfolio.svg" align="left" width="220px"></a>
+    <a href="https://www.moontechnolabs.com/blog/"><img src="assets/read-blogs.svg" align="left" width="220px"></a>
+    <a href="https://www.moontechnolabs.com/contact-us"><img src="assets/get-in-touch.png" align="left" width="220px"></a>
 </div>
 
 <br/>
