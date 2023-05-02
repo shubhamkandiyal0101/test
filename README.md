@@ -11,8 +11,8 @@
 
 <div>
 <img src="assets/view-portfolio.svg" align="left">
-<img src="assets/read-blogs.svg" align="center">
-<img src="assets/get-in-touch.png" align="right">
+<img src="assets/read-blogs.svg" align="left">
+<img src="assets/get-in-touch.png" align="left">
 </div>
 
 <h2>Our Expertise in Different Technologies</h2>
