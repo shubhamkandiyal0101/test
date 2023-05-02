@@ -29,10 +29,33 @@
 
 |<!-- --> |<!-- --> |<!-- --> |<!-- --> |
 |--------|--------|--------|--------|
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" /> Flutter |<img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" height="30"/> PHP     | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" width="30" /> Dot Net|<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30"> NodeJS  |
-|<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="iOS" width="30" />iOS|Laravel|eCommerce|Angular|
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter |<img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" height="40"/>&nbsp; &nbsp;  PHP     | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dot Net" height="40" />&nbsp; &nbsp;  Dot Net|<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40">&nbsp; &nbsp;  NodeJS  |
+|<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" height="40" />&nbsp; &nbsp; iOS|Laravel|eCommerce|Angular|
 |Android|SaaS|Wordpress|AI/ML|
 |React Native | PWA | AR/VR|MAC|
 |Python|CI|Blockchain|Windows|
 |WebRTC|Wearable|Asterisk|IoT|
 |Metaverse| 
+
+
+<table>
+<tr>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+</tr>
+<tr>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+</tr>
+<tr>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40" />&nbsp; &nbsp;  Flutter</td>
+</tr>
+
+</table>
